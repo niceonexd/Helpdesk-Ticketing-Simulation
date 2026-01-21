@@ -28,3 +28,6 @@ It demonstrates handling, prioritizing, and resolving common L1 IT support issue
 - Troubleshooting methodology
 - Customer support communication
 - Documentation and ticket handling
+
+## Screenshots
+Screenshots of ticket dashboard, open tickets, and resolved tickets are included in the screenshots folder.
